@@ -1,4 +1,7 @@
-# test coverage for  [brain (v0.7.0)](https://github.com/harthur/brain)  [![npm package](https://img.shields.io/npm/v/npmtest-brain.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-brain) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-brain.svg)](https://travis-ci.org/npmtest/node-npmtest-brain)
+# npmtest-brain
+
+#### basic test coverage for  [brain (v0.7.0)](https://github.com/harthur/brain)  [![npm package](https://img.shields.io/npm/v/npmtest-brain.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-brain) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-brain.svg)](https://travis-ci.org/npmtest/node-npmtest-brain)
+
 #### Neural network library
 
 [![NPM](https://nodei.co/npm/brain.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/brain)
